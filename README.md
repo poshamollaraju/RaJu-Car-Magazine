@@ -1,2 +1,2 @@
 # RaJu-Car-Magazine
-all about to show case the website
+all about to show all cars in the website
