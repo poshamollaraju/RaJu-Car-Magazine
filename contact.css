@@ -1,0 +1,39 @@
+.head{
+    font-size: 50px;    
+    font-weight: bold;
+}
+.body{
+with height: 10px;
+}
+form{
+    width: 90px;
+    height: 200px;
+    position: relative;
+    left: 50px;
+    padding: 50px;
+    font-size: 0PX;
+}
+option{
+    width: 20px;
+    color: black;
+    background-color: rgb(195, 235, 34);
+    font-size: 20px;
+
+}
+select{
+    font-size: 30px;
+    color: darksalmon;
+    background-color: beige;
+}
+.opt{
+    width: 20px;
+}
+.quo{
+    position: relative;
+    margin-left: 500px;
+    margin-top: -150px;
+    font-size: 40px;
+}
+.quo:hover{
+    color: goldenrod;
+}

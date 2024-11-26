@@ -1,0 +1,175 @@
+.menu{
+    width: 20px;
+    float: left;
+    align-items: center;
+    vertical-align: right;
+
+}
+ul{
+    float: left;
+    display: flex;
+    width: 50px;
+    justify-content: left;
+    align-items: center;
+    margin-left: 100px;
+
+}
+ul li{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 14px;
+
+}
+ul li a{
+    color: rgb(251, 246, 246);
+    font-weight:bold ;
+    font-family: Arial;
+    vertical-align: right;
+
+}
+ul li a:hover{
+    color: rgb(234, 104, 35);
+    box-shadow: 10px 10px 50px black;
+}
+ul li a:active{
+    color: yellow;
+}
+P{
+    margin-top: 40px;
+}
+.logo{
+    color: rgb(146, 16, 194);
+    font-size: 40px;
+    margin-top: 30px;
+}
+.back {
+    width: 30px;
+    object-position: left;
+}
+.sreach {
+    font-size: 15px;
+    border-radius: 7px;
+    border-color:  rgb(240, 21, 112);
+    background-color: transparent;
+    position: fixed;
+    right: 30px;
+
+}
+.sreach :hover{
+    background-color: rgb(21, 202, 108);
+    box-shadow: 10px 10px 50px rgb(135, 23, 23);
+}
+.sreachbutton{
+    position: fixed;
+    right: 30px;
+    background-color:  rgb(240, 21, 112);
+    border-color:  rgb(240, 21, 112);
+    padding-bottom: 3px;
+    border-radius: 5px;
+}
+.carname{
+    position: relative;
+    left: 50px;
+    top: 90px;
+    font-size: 150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: rgb(211, 0, 88);
+}
+.magazine{
+    position: relative;
+    left: 50px;
+    font-size: 80px;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+    color: white;
+    font-weight: bold;
+}
+.cartext{
+    text-decoration: dashed;
+    width: 500px;
+    text-align: center;
+    margin-left: 30px;
+
+}
+.name{
+    color: white;
+    margin-left: 10px;
+    position: absolute;
+    bottom: 10px;
+}
+.name:hover{
+    color: yellow;
+    text-shadow: 10px 10px 60px white;
+    
+}
+.login{
+    position: absolute;
+    right: 20px;
+    top:150px;
+    bottom: 330px;
+    width: 200px;
+    height: 25s0px;
+    background:linear-gradient(to top,rgba(0, 0, 0, 8)30%,rgba(0, 0, 0, 8)30% );
+    color: gray;
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 10px;
+}
+.l{
+    text-align: center;
+    color: rgb(251, 79, 21);
+    background-color: rgb(232, 218, 218);
+    padding: 8px;
+    border-radius: 30px;
+}
+.login input{
+    background: black;
+    color: gray;
+    border-color: gray;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.but{
+    width: 180px;
+    height: 40px;
+    background: white;
+    font-weight: bold;
+    background-color: rgb(211, 0, 88);
+    border-color: rgb(211, 0, 88);
+    transition: o.4s ease;
+}
+.but:hover{
+    background-color: white;
+    color:black;
+    border-color: white;
+}
+.but a{
+    color: black;
+    font-weight: bold;
+}
+.link{
+    position: absolute;
+    font-size: 15px;
+    padding: 10px;
+    position: absolute;
+    top: 120px;
+}
+p a{
+    position: relative;
+    top: -3px;
+    font-size:15px;
+    color: chocolate;
+
+}
+.log{
+    position: absolute;
+    left: 30px;
+    font-size: 14px;
+}
+.iii{
+    position: fixed;
+    right 10px;
+}
